@@ -1,5 +1,4 @@
 mlxtend
-urllib.parse
 urlib
 requests
 numpy
