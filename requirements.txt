@@ -1,5 +1,5 @@
 mlxtend
-urlib
+urllib
 requests
 numpy
 pandas
