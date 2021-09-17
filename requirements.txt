@@ -1,5 +1,4 @@
 mlxtend
-ast
 modules.sifunctions
 urllib.parse
 urlib
