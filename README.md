@@ -1,6 +1,6 @@
 # domain-exploration
 
-These are the notebooks I used to look for patterns in harvard.ed domain names that may indicate if a url was valid( e.g. an actual website). 
+These are the notebooks I used to look for patterns in harvard.edu domain names that may indicate if a url was valid( e.g. an actual website). 
 
 To get the data I started with the list of 25K harvard.edu URLs (data/LF_Survey.csv) and engineered some features (e.g. parsed the URL into sub domains, got response status codes, assigned "KEEP/REMOVE/CHECK" values) to get the dataframe for exploring associations and domain names. This is the LF_DomainList_FeatureEngineering.ipynb notebook.
 
