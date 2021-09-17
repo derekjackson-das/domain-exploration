@@ -1,0 +1,11 @@
+mlxtend
+ast
+modules.sifunctions
+urllib.parse
+urlib
+requests
+numpy
+pandas
+matplotlib
+seaborn
+ast
